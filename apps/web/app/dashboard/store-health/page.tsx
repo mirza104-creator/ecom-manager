@@ -116,7 +116,7 @@ function generateIssues(
   });
 
   issues.push({
-    level: 'info',
+    level: 'good',
     title: 'Speed & Mobile Readiness',
     message:
       'Your store appears mobile-ready, but performance optimization is recommended.',
